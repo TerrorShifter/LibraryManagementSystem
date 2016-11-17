@@ -1,0 +1,46 @@
+9
+Pattern Recognition
+William Gibson
+02/01/2005
+0425198685
+Available
+Machine Learning
+Ethem Alpaydin
+12/04/2009
+026201243X
+Available
+The Hobbit
+JRR Tolkien
+09/21/1937
+1646316843
+Available
+Eragon
+Christopher Paolini
+08/26/2003
+0375826688
+Checked Out
+Ticktock
+Dean Koontz
+07/09/1996
+0747213984
+Checked Out
+Meg: A Novel of Deep Terror
+Steve Alten
+07/14/1997
+0976165910
+Available
+The Running Man
+Richard Bachman
+05/22/1982
+9780451115
+Available
+Rose Madder
+Stephen King
+06/10/1995
+9780670858
+Available
+The Maze Runner
+James Dashner
+10/21/2009
+9780385737
+Available
